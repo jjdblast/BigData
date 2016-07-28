@@ -51,6 +51,19 @@
 
 
     </dependencies>
+    <distributionManagement>
+        <repository>
+            <id>datawarehouse</id>
+            <name>Nexus Release Repository</name>
+            <url>http://192.168.4.205:8081/nexus/content/repositories/releases/</url>
+        </repository>
+
+        <snapshotRepository>
+            <id>datawarehouse</id>
+            <name>Nexus Snapshot Repository</name>
+            <url>http://192.168.4.205:8081/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 
     <build>
         <plugins>
