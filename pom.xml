@@ -15,6 +15,7 @@
         <module>Spark</module>
         <module>Redis</module>
         <module>HBase</module>
+        <module>Tool</module>
     </modules>
 
     <properties>
