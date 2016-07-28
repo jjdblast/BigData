@@ -1,0 +1,1 @@
+[(frozenset(['5']), frozenset(['2']), 0.75), (frozenset(['2']), frozenset(['5']), 0.75), (frozenset(['5']), frozenset(['3']), 0.75), (frozenset(['3']), frozenset(['5']), 0.75)]

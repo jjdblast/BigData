@@ -1,0 +1,1 @@
+{'spInd': 0, 'spVal': matrix([[ 0.499171]]), 'right': -2.6377193297872341, 'left': {'spInd': 0, 'spVal': matrix([[ 0.729397]]), 'right': 107.68699163829793, 'left': {'spInd': 0, 'spVal': matrix([[ 0.952833]]), 'right': {'spInd': 0, 'spVal': matrix([[ 0.759504]]), 'right': 78.085643250000004, 'left': 95.7366680212766}, 'left': 108.838789625}}}

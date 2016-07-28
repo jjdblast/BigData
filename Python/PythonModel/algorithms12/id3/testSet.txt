@@ -1,0 +1,11 @@
+age	prescript	astigmatic	tearRate	labels
+young	myope	no	reduced	no lenses
+young	myope	yes	normal	hard
+pre	myope	yes	normal	hard
+pre	hyper	no	reduced	no lenses
+pre	hyper	no	normal	soft
+pre	hyper	yes	reduced	no lenses
+pre	hyper	yes	normal	no lenses
+presbyopic	hyper	no	normal	soft
+presbyopic	hyper	yes	reduced	no lenses
+presbyopic	hyper	yes	normal	no lenses
